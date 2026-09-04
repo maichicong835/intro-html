@@ -1,0 +1,13 @@
+{
+  "schema":"AMZ_RETIRED_ROUTE_V1",
+  "project":"AMZ Ideas",
+  "repository":"maichicong835/intro-html",
+  "route_state":"RETIRED_NON_OPERATIONAL_TOMBSTONE",
+  "active_repository":"maichicong835/AMZ-Ideas",
+  "active_branch":"main",
+  "active_restore_entrypoint":".amz-specs/project-current.json",
+  "writes_authorized":false,
+  "active_state_reads_authorized":false,
+  "deletion_attempt":{"workflow_run_id":33868080147,"http_status":403,"result":"BLOCKED_BY_GITHUB_INTEGRATION_ADMIN_PERMISSION"},
+  "pre_cutover_history_preserved_in_private_destination":"migration/archive/intro-html-full-history-2026-09-04.bundle"
+}

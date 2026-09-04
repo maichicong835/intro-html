@@ -1,11 +1,14 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
+# AMZ Ideas moved to a private repository
 
-Welcome to your repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through.
+This public repository is **retired for AMZ Ideas**.
 
-Oh! I haven't introduced myself...
+The sole active AI/system route is:
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
+- Repository: `maichicong835/AMZ-Ideas`
+- Branch: `main`
+- Visibility: private
+- Restore entrypoint: `.amz-specs/project-current.json`
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
+Do not read this repository as current AMZ Ideas state and do not write new AMZ Ideas state here.
 
-I'll meet you over there, can't wait to get started!
+The complete pre-cutover Git history and AMZ engine lineage were preserved in the private destination before this branch was tombstoned. The source-repository deletion attempt was blocked by GitHub integration administration permissions (HTTP 403), so this public branch is intentionally reduced to a non-operational tombstone until the repository is deleted through GitHub administration.
